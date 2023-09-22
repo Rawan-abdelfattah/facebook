@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500&display=swap');
+.buttons{
+    padding-top: 30vh;
+}
+body{
+    background-color:#f0f2f5;
+    /* font-family: 'Montserrat', sans-serif; */
+    /* font-family: 'Nunito', sans-serif; */
+
+
+}
+.blue_color{
+    color: #1877f2;
+
+}
+.blue_color_h1{
+    color: #1877f2;
+    font-weight: bold;
+    font-size: 50px;
+    /* font-size: 50px; */
+}
+.login_btn{
+    background-color: #1877f2;
+    font-size: 20px;
+    font-weight: bold;
+}
+.create_btn{
+    background-color: #42b72a;
+    font-size: 20px;
+    font-weight: bold;
+}
+.login_btn:hover{
+    background-color: #1877f2;
+    
+}
+.create_btn:hover{
+    background-color: #42b72a
+    ;
+}
+/* .div1{
+    width: 300px;  
+    
+} */
+/* form{
+    width: 300px;
+} */
+
